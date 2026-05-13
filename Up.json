@@ -1,4 +1,28 @@
 {
-  "version": 3,  "url": "https://github.com/ameee12345ameerqwasqwas-design/AMEER/raw/refs/heads/main/BEN10_4.3.apk",
-  "message": " تم تحديث لودر اولاين اضغط علا تنزيل لان لتتمتع بي لودر "
+  "app_config": {
+    "update": {
+      "latestVersionCode": 2,
+      "latestVersionName": "2.0.0",
+      "apkUrl": "https://github.com/ameee12345ameerqwasqwas-design/AMEER/raw/refs/heads/main/BEN10_4.3.apk",
+      "updateMessage": "رسالة التحديث هنا",
+      "forceUpdate": false
+    },
+    "server_status": {
+      "isMaintenance": false,
+      "maintenanceMessage": "السيرفر تحت الصيانة حالياً.."
+    },
+    "links": {
+      "telegram": "رابط قناتك",
+      "owner": "رابط حسابك",
+      "store": "رابط المتجر"
+    },
+    "ui_texts": {
+      "splash_welcome": "أهلاً بك في اللودر",
+      "login_note": "ملاحظة تظهر عند الدخول",
+      "marquee_news": "شريط الأخبار المتحرك",
+      "footer_text": "النص الموجود في الأسفل",
+      "dialog_welcome_title": "عنوان رسالة الترحيب",
+      "dialog_welcome_msg": "محتوى رسالة الترحيب"
+    }
+  }
 }
