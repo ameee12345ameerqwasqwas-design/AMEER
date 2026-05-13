@@ -2,27 +2,31 @@
   "app_config": {
     "update": {
       "latestVersionCode": 391,
-      "latestVersionName": "2.0.0",
-      "apkUrl": "https://github.com/ameee12345ameerqwasqwas-design/AMEER/raw/refs/heads/main/BEN10_4.3.apk",
-      "updateMessage": "رسالة التحديث هنا",
+      "latestVersionName": "4.5.0",
+      "apkUrl": "https://example.com/app-release.apk",
+      "updateMessage": "تم تحديث اللودر إلى إصدار VIP جديد:\n- تحسين الحماية بشكل كامل\n- إضافة واجهة تحديث احترافية\n- إصلاح مشاكل الخروج المفاجئ",
       "forceUpdate": false
+    },
+    "protection": {
+      "bypassVersion": 1,
+      "zipUrl": "https://github.com/ahmedali00comhh-byte/Rpf/releases/download/Tod/newl.zip"
     },
     "server_status": {
       "isMaintenance": false,
-      "maintenanceMessage": "السيرفر تحت الصيانة حالياً.."
+      "maintenanceMessage": "السيرفر تحت الصيانة حالياً لتحديث ملفات الباي باس.. سنعود خلال دقائق."
     },
     "links": {
-      "telegram": "رابط قناتك",
-      "owner": "رابط حسابك",
-      "store": "رابط المتجر"
+      "telegram": "https://t.me/LOADER_FOX",
+      "owner": "https://t.me/LOADER_FOX",
+      "store": "https://t.me/LOADER_FOX"
     },
     "ui_texts": {
-      "splash_welcome": "أهلاً بك في اللودر",
-      "login_note": "ملاحظة تظهر عند الدخول",
-      "marquee_news": "شريط الأخبار المتحرك",
-      "footer_text": "النص الموجود في الأسفل",
-      "dialog_welcome_title": "عنوان رسالة الترحيب",
-      "dialog_welcome_msg": "محتوى رسالة الترحيب"
+      "splash_welcome": "أهلاً بك في 𝐺𝑂𝑂𝐾𝐿𝑌 VIP - تم تحديث الحماية",
+      "login_note": "ملاحظة: تأكد من تشغيل اللعبة من داخل اللودر حصراً",
+      "marquee_news": "آخر الأخبار: تم إضافة حماية 10 دقائق جديدة.. استمتع باللعب الآمن!",
+      "footer_text": "إصدار الحماية: V1.0 | مطور بواسطة LOADER FOX",
+      "dialog_welcome_title": "تنبيه الأمان",
+      "dialog_welcome_msg": "يرجى عدم تفعيل ميزات الهاك في اللوبي (الساحة) لتجنب كشف الحساب."
     }
   }
 }
