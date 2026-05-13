@@ -9,7 +9,9 @@
     },
     "protection": {
       "bypassVersion": 1,
-      "zipUrl": "https://github.com/ahmedali00comhh-byte/Rpf/releases/download/Tod/newl.zip"
+      "zipUrl": "https://github.com/ahmedali00comhh-byte/Rpf/releases/download/Tod/newl.zip",
+      "isProtectionSafe": true,
+      "protectionNote": "الحماية حالياً آمنة جداً (Safe)"
     },
     "server_status": {
       "isMaintenance": false,
@@ -18,7 +20,8 @@
     "links": {
       "telegram": "https://t.me/LOADER_FOX",
       "owner": "https://t.me/LOADER_FOX",
-      "store": "https://t.me/LOADER_FOX"
+      "store": "https://t.me/LOADER_FOX",
+      "channel_news": "https://t.me/LOADER_FOX"
     },
     "ui_texts": {
       "splash_welcome": "أهلاً بك في 𝐺𝑂𝑂𝐾𝐿𝑌 VIP - تم تحديث الحماية",
@@ -26,7 +29,16 @@
       "marquee_news": "آخر الأخبار: تم إضافة حماية 10 دقائق جديدة.. استمتع باللعب الآمن!",
       "footer_text": "إصدار الحماية: V1.0 | مطور بواسطة LOADER FOX",
       "dialog_welcome_title": "تنبيه الأمان",
-      "dialog_welcome_msg": "يرجى عدم تفعيل ميزات الهاك في اللوبي (الساحة) لتجنب كشف الحساب."
+      "dialog_welcome_msg": "يرجى عدم تفعيل ميزات الهاك في اللوبي (الساحة) لتجنب كشف الحساب.",
+      "login_btn_text": "تسجيل دخول VIP",
+      "license_hint": "أدخل كود الاشتراك هنا...",
+      "buy_button_text": "شراء كود جديد"
+    },
+    "features_control": {
+      "show_esp": true,
+      "show_aimbot": true,
+      "show_memory": true,
+      "max_fps": 120
     }
   }
 }
