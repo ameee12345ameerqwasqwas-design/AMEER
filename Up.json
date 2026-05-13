@@ -1,7 +1,7 @@
 {
   "app_config": {
     "update": {
-      "latestVersionCode": 391,
+      "latestVersionCode": 390,
       "latestVersionName": "4.5.0",
       "apkUrl": "https://example.com/app-release.apk",
       "updateMessage": "تم تحديث اللودر إلى إصدار VIP جديد:\n- تحسين الحماية بشكل كامل\n- إضافة واجهة تحديث احترافية\n- إصلاح مشاكل الخروج المفاجئ",
