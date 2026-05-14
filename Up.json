@@ -10,11 +10,11 @@
     "protection": {
       "bypassVersion": 122,
       "zipUrl": "https://github.com/ameee12345ameerqwasqwas-design/AMEER/raw/refs/heads/main/ae29.zip",
-      "isProtectionSafe": true,
+      "isProtectionSafe": false,
       "protectionNote": "الحماية حالياً آمنة جداً (Safe)"
     },
     "server_status": {
-      "isMaintenance": true,
+      "isMaintenance": ,
       "maintenanceMessage": "السيرفر تحت الصيانة حالياً لتحديث ملفات الباي باس.. سنعود خلال دقائق."
     },
     "links": {
