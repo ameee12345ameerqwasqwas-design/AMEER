@@ -18,21 +18,21 @@
       "maintenanceMessage": "السيرفر تحت الصيانة حالياً لتحديث ملفات الباي باس.. سنعود خلال دقائق."
     },
     "links": {
-      "telegram": "https://t.me/LOADER_FOX",
-      "owner": "https://t.me/LOADER_FOX",
-      "store": "https://t.me/LOADER_FOX",
-      "channel_news": "https://t.me/LOADER_FOX"
+      "telegram": "https://t.me/x3_2r",
+      "owner": "https://t.me/x3_2r",
+      "store": "https://t.me/x3_2r",
+      "channel_news": "https://t.me/x3_2r"
     },
     "ui_texts": {
       "splash_welcome": "أهلاً بك في 𝐺𝑂𝑂𝐾𝐿𝑌 VIP - تم تحديث الحماية",
       "login_note": "ملاحظة: تأكد من تشغيل اللعبة من داخل اللودر حصراً",
-      "marquee_news": "آخر الأخبار: تم إضافة حماية 10 دقائق جديدة.. استمتع باللعب الآمن!",
-      "footer_text": "إصدار الحماية: V1.0 | مطور بواسطة LOADER FOX",
+      "marquee_news": "آخر الأخبار: ماكو شي سلامتك العب ودعيلنه!",
+      "footer_text": "إصدار الحماية: V1.0 | مطور بواسطة LOADER GOOK",
       "dialog_welcome_title": "تنبيه الأمان",
-      "dialog_welcome_msg": "يرجى عدم تفعيل ميزات الهاك في اللوبي (الساحة) لتجنب كشف الحساب.",
+      "dialog_welcome_msg": "مرحبا بك العب ابحذر مو همج + برنامج مجاني يعني حمايه عاديه ابني.",
       "login_btn_text": "تسجيل دخول VIP",
       "license_hint": "أدخل كود الاشتراك هنا...",
-      "buy_button_text": "شراء كود جديد"
+      "buy_button_text": "ماعدك كود تعال خن انطيك بس مقابل كونده "
     },
     "features_control": {
       "show_esp": true,
