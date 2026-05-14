@@ -14,7 +14,7 @@
       "protectionNote": "الحماية حالياً آمنة جداً (Safe)"
     },
     "server_status": {
-      "isMaintenance": false,
+      "isMaintenance": true,
       "maintenanceMessage": "السيرفر تحت الصيانة حالياً لتحديث ملفات الباي باس.. سنعود خلال دقائق."
     },
     "links": {
